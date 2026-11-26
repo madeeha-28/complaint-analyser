@@ -28,6 +28,7 @@ On the 12 synthetic complaints in `complaints.txt`, the tool finds two clusters:
 - **Cluster 2:** 2 complaints for a crypto scam, linked by a phone number, a website, and a wallet.
 
 Two complaints share nothing with the others and stay unlinked.
+**[View the live dashboard](https://madeeha-28.github.io/complaint-analyzer/dashboard.html)** (synthetic data)
 
 <img width="1697" height="915" alt="dashboard" src="https://github.com/user-attachments/assets/b46b9539-61c7-49cd-ab17-ccf8217871f5" />
 
