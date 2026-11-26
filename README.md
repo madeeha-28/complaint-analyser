@@ -29,9 +29,11 @@ On the 12 synthetic complaints in `complaints.txt`, the tool finds two clusters:
 
 Two complaints share nothing with the others and stay unlinked.
 
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](<img width="1697" height="915" alt="dashboard" src="https://github.com/user-attachments/assets/b46b9539-61c7-49cd-ab17-ccf8217871f5" />
+)
 
-![Network graph](screenshots/network-graph.png)
+![Network graph](<img width="1470" height="897" alt="network-graph" src="https://github.com/user-attachments/assets/0921703d-8e6f-4a9a-ae91-6e06d03da902" />
+)
 
 ## How to run
 
